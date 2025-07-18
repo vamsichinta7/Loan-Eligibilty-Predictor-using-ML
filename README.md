@@ -3,6 +3,12 @@
 A smart and interactive AI-powered web app built with Streamlit that predicts loan eligibility using machine learning. The app features real-time predictions, beautiful charts, voice feedback (local), and a modern UI.
 
 ---
+## 🚀 Live App
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-%23FF4B4B?logo=streamlit&logoColor=white)](https://loan-eligibilty-predictor.streamlit.app/)
+
+**Try it live here:** [https://loan-eligibilty-predictor.streamlit.app/](https://loan-eligibilty-predictor.streamlit.app/)
+---
 
 ## 🚀 Overview
 
